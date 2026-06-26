@@ -21,7 +21,7 @@ Below is the live execution environment layout showing the responsive card matri
 
 <!-- Memory Game Modern UI Display Section -->
 <div align="center">
-  <img src="./Memory_Game.png" alt="Memory Game Dashboard UI Preview" width="85%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,0,0,0.3); border: 1px solid #4a3b5c;">
+  <img src="Memory_Game.png" alt="Memory Game Dashboard UI Preview" width="85%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,0,0,0.3); border: 1px solid #4a3b5c;">
   <p><i>Gameplay Hub — Multi-Row Interactive Matrix Layout with State Controls, Move Arrays, and Temporal Trackers</i></p>
 </div>
 
