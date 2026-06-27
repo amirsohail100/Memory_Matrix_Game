@@ -61,6 +61,6 @@ Follow these clear guidelines to launch the arcade matrix on your local machine:
 ### 1. Clone the Target Terminal Endpoint
 
 ```bash
-git clone [https://github.com/amirsohail100/your-memory-game-repo.git](https://github.com/amirsohail100/your-memory-game-repo.git)
-cd your-memory-game-repo
+git clone [https://github.com/amirsohail100/Memory_Matrix_Game.git](https://github.com/amirsohail100/Memory_Matrix_Game.git)
+cd Memory_Matrix_Game
 ```
